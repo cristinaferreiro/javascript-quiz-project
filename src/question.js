@@ -9,7 +9,7 @@ class Question {
 
 
 
-
+    //MODIFICACION
     shuffleChoices() {
 
         this.choices.forEach((choice, index) => {
