@@ -11,7 +11,7 @@ class Quiz {
 
 
 
-    //MODIFICACION
+    //hiiiiiiiiii
     // 1. constructor (questions, timeLimit, timeRemaining)
 
     getQuestion() {
