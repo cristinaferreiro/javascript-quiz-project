@@ -6,7 +6,7 @@ class Quiz {
         this.timeLimit = timeLimitValue
         this.timeRemaining = timeRemainingValue
         this.correctAnswers = 0
-        this.currentQuestionIndex = 1
+        this.currentQuestionIndex = 0
 
     }
 
